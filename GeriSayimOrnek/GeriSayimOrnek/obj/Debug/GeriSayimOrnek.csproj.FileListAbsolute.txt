@@ -1,0 +1,10 @@
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\ntp\GeriSayimOrnek\GeriSayimOrnek\bin\Debug\GeriSayimOrnek.exe.config
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\ntp\GeriSayimOrnek\GeriSayimOrnek\bin\Debug\GeriSayimOrnek.exe
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\ntp\GeriSayimOrnek\GeriSayimOrnek\bin\Debug\GeriSayimOrnek.pdb
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\ntp\GeriSayimOrnek\GeriSayimOrnek\obj\Debug\GeriSayimOrnek.csproj.AssemblyReference.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\ntp\GeriSayimOrnek\GeriSayimOrnek\obj\Debug\GeriSayimOrnek.Form1.resources
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\ntp\GeriSayimOrnek\GeriSayimOrnek\obj\Debug\GeriSayimOrnek.Properties.Resources.resources
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\ntp\GeriSayimOrnek\GeriSayimOrnek\obj\Debug\GeriSayimOrnek.csproj.GenerateResource.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\ntp\GeriSayimOrnek\GeriSayimOrnek\obj\Debug\GeriSayimOrnek.csproj.CoreCompileInputs.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\ntp\GeriSayimOrnek\GeriSayimOrnek\obj\Debug\GeriSayimOrnek.exe
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\ntp\GeriSayimOrnek\GeriSayimOrnek\obj\Debug\GeriSayimOrnek.pdb

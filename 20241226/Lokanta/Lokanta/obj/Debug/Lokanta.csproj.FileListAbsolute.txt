@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\2024\Lokanta\Lokanta\bin\Debug\Lokanta.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\2024\Lokanta\Lokanta\bin\Debug\Lokanta.exe
+C:\Users\student\Desktop\Ahmet\ntp\2024\Lokanta\Lokanta\bin\Debug\Lokanta.pdb
+C:\Users\student\Desktop\Ahmet\ntp\2024\Lokanta\Lokanta\obj\Debug\Lokanta.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\Lokanta\Lokanta\obj\Debug\Lokanta.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\2024\Lokanta\Lokanta\obj\Debug\Lokanta.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\2024\Lokanta\Lokanta\obj\Debug\Lokanta.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\Lokanta\Lokanta\obj\Debug\Lokanta.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\Lokanta\Lokanta\obj\Debug\Lokanta.exe
+C:\Users\student\Desktop\Ahmet\ntp\2024\Lokanta\Lokanta\obj\Debug\Lokanta.pdb

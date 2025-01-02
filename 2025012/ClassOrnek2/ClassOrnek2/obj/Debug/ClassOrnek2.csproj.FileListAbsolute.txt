@@ -1,0 +1,10 @@
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025012\ClassOrnek2\ClassOrnek2\bin\Debug\ClassOrnek2.exe.config
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025012\ClassOrnek2\ClassOrnek2\bin\Debug\ClassOrnek2.exe
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025012\ClassOrnek2\ClassOrnek2\bin\Debug\ClassOrnek2.pdb
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025012\ClassOrnek2\ClassOrnek2\obj\Debug\ClassOrnek2.csproj.AssemblyReference.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025012\ClassOrnek2\ClassOrnek2\obj\Debug\ClassOrnek2.Form1.resources
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025012\ClassOrnek2\ClassOrnek2\obj\Debug\ClassOrnek2.Properties.Resources.resources
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025012\ClassOrnek2\ClassOrnek2\obj\Debug\ClassOrnek2.csproj.GenerateResource.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025012\ClassOrnek2\ClassOrnek2\obj\Debug\ClassOrnek2.csproj.CoreCompileInputs.cache
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025012\ClassOrnek2\ClassOrnek2\obj\Debug\ClassOrnek2.exe
+C:\Users\H2O\Desktop\KORUMASIZ\642zeynep\2025012\ClassOrnek2\ClassOrnek2\obj\Debug\ClassOrnek2.pdb

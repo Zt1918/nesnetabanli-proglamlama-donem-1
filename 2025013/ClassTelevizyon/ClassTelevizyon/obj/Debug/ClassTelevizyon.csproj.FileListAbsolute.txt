@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Ahmet\ntp\2024\ClassTelevizyon\ClassTelevizyon\bin\Debug\ClassTelevizyon.exe.config
+C:\Users\student\Desktop\Ahmet\ntp\2024\ClassTelevizyon\ClassTelevizyon\bin\Debug\ClassTelevizyon.exe
+C:\Users\student\Desktop\Ahmet\ntp\2024\ClassTelevizyon\ClassTelevizyon\bin\Debug\ClassTelevizyon.pdb
+C:\Users\student\Desktop\Ahmet\ntp\2024\ClassTelevizyon\ClassTelevizyon\obj\Debug\ClassTelevizyon.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\ClassTelevizyon\ClassTelevizyon\obj\Debug\ClassTelevizyon.Form1.resources
+C:\Users\student\Desktop\Ahmet\ntp\2024\ClassTelevizyon\ClassTelevizyon\obj\Debug\ClassTelevizyon.Properties.Resources.resources
+C:\Users\student\Desktop\Ahmet\ntp\2024\ClassTelevizyon\ClassTelevizyon\obj\Debug\ClassTelevizyon.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\ClassTelevizyon\ClassTelevizyon\obj\Debug\ClassTelevizyon.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Ahmet\ntp\2024\ClassTelevizyon\ClassTelevizyon\obj\Debug\ClassTelevizyon.exe
+C:\Users\student\Desktop\Ahmet\ntp\2024\ClassTelevizyon\ClassTelevizyon\obj\Debug\ClassTelevizyon.pdb
